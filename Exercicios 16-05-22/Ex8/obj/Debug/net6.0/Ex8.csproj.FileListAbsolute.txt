@@ -1,0 +1,15 @@
+C:\source\projects\Exercicios\Ex8\bin\Debug\net6.0\Ex8.exe
+C:\source\projects\Exercicios\Ex8\bin\Debug\net6.0\Ex8.deps.json
+C:\source\projects\Exercicios\Ex8\bin\Debug\net6.0\Ex8.runtimeconfig.json
+C:\source\projects\Exercicios\Ex8\bin\Debug\net6.0\Ex8.dll
+C:\source\projects\Exercicios\Ex8\bin\Debug\net6.0\Ex8.pdb
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\Ex8.csproj.AssemblyReference.cache
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\Ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfoInputs.cache
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfo.cs
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\Ex8.csproj.CoreCompileInputs.cache
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\Ex8.dll
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\refint\Ex8.dll
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\Ex8.pdb
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\Ex8.genruntimeconfig.cache
+C:\source\projects\Exercicios\Ex8\obj\Debug\net6.0\ref\Ex8.dll

@@ -1,0 +1,15 @@
+C:\source\projects\Exercicios\Ex6\bin\Debug\net6.0\Ex6.exe
+C:\source\projects\Exercicios\Ex6\bin\Debug\net6.0\Ex6.deps.json
+C:\source\projects\Exercicios\Ex6\bin\Debug\net6.0\Ex6.runtimeconfig.json
+C:\source\projects\Exercicios\Ex6\bin\Debug\net6.0\Ex6.dll
+C:\source\projects\Exercicios\Ex6\bin\Debug\net6.0\Ex6.pdb
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\Ex6.csproj.AssemblyReference.cache
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\Ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\Ex6.AssemblyInfoInputs.cache
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\Ex6.AssemblyInfo.cs
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\Ex6.csproj.CoreCompileInputs.cache
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\Ex6.dll
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\refint\Ex6.dll
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\Ex6.pdb
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\Ex6.genruntimeconfig.cache
+C:\source\projects\Exercicios\Ex6\obj\Debug\net6.0\ref\Ex6.dll

@@ -1,0 +1,15 @@
+C:\source\projects\Exercicios\Ex5\bin\Debug\net6.0\Ex5.exe
+C:\source\projects\Exercicios\Ex5\bin\Debug\net6.0\Ex5.deps.json
+C:\source\projects\Exercicios\Ex5\bin\Debug\net6.0\Ex5.runtimeconfig.json
+C:\source\projects\Exercicios\Ex5\bin\Debug\net6.0\Ex5.dll
+C:\source\projects\Exercicios\Ex5\bin\Debug\net6.0\Ex5.pdb
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\Ex5.csproj.AssemblyReference.cache
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\Ex5.AssemblyInfoInputs.cache
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\Ex5.AssemblyInfo.cs
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\Ex5.csproj.CoreCompileInputs.cache
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\Ex5.dll
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\refint\Ex5.dll
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\Ex5.pdb
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\Ex5.genruntimeconfig.cache
+C:\source\projects\Exercicios\Ex5\obj\Debug\net6.0\ref\Ex5.dll
